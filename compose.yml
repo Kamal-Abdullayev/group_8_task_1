@@ -1,0 +1,14 @@
+version: '3'
+
+services:
+  pyspark:
+    build:
+      context: . # Use the Dockerfile in the current directory
+    container_name: pyspark_project_1
+    command: start-notebook.sh --NotebookApp.token=''
+    ports:
+      - "8888:8888"
+      - "4040:4040"
+    volumes:
+      - "./mnt/:/home/jovyan/"
+      - "./sample/:/home/jovyan/input/"
