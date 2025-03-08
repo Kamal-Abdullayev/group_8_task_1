@@ -5,7 +5,7 @@
 
 Project [Big Data](https://courses.cs.ut.ee/2025/bdm/spring/Main/HomePage) is provided by [University of Tartu](https://courses.cs.ut.ee/).
 
-Students: Kamal Abdullayev, Leyla Eminova, Lucky Chigozie Ogogo, VÜsal Abdullayev
+Students: Kamal Abdullayev, Leyla Eminova, Lucky Chigozie Ogogo, Vüsal Abdullayev
 
 ## Queries 
 
