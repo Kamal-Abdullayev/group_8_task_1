@@ -16,3 +16,4 @@
 *.ipython
 *.cache
 
+.venv/
